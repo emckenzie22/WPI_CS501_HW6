@@ -1,0 +1,13 @@
+name: App1
+title: App1
+username:
+account: cn7o7m-e-m
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6637570
+bundleId: 6095659
+url: https://cn7o7m-e-m.shinyapps.io/app1/
+when: 1657733997.56878
+lastSyncTime: 1657733997.56879
+asMultiple: FALSE
+asStatic: FALSE
